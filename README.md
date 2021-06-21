@@ -1,10 +1,9 @@
 # brief about me
 
-My name is Hamzeh ,I am 27 years old
+## My name is Hamzeh ,I am 27 years old
 
-I graduated from Yarmouk university from civil  engineering department
-
-And now I am trying to learn a new thing a web developer 
+**graduated from Yarmouk university from civil  engineering department
+and now iam trying to learn a new thing a web deceloper**
 
 My GitHub Profile [GitHub](https://github.com/hamzeh27)
 
