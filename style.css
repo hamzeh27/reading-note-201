@@ -1,0 +1,25 @@
+*{
+    margin:0 ;
+    padding:0 ;
+    box-sizing:border-box;
+    }
+    header {
+      background-color :rgb(218, 204, 186);
+      color:rgb(97, 30, 160);
+      height: 70px;
+      text-align: center
+      }
+      li a {
+        color: rgb(125, 48, 197);
+        text-decoration: rgb(175, 149, 149);
+      }
+    li {
+      display: inline;
+      padding: 40px;
+    }
+     div {
+       font-size: 40px;
+     }
+     main {
+       text-align: center;
+     }
