@@ -9,9 +9,9 @@ function wlecoming(){
     }
     function printImg(){
     let userinput = prompt('please enter the number of real madrid won in champions league ?')
-    while(userinput=!8)
+    while(userinput!=13)
     {
-    userinput=prompt("please enter the more than 10")
+    userinput=prompt("please search and put the right number")
     }
     
     }
